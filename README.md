@@ -13,8 +13,8 @@ de pacotes como o [Yarn](https://yarnpkg.com/) ou o [NPM](https://www.npmjs.com/
 ### 🎨 Execução
 ```bash
 # Clone o repositório
-$ git clone <https://github.com/afonsomateus21/desafio-tunts-rocks.git> ou
-$ git clone <git@github.com:afonsomateus21/desafio-tunts-rocks.git> se utilizar SSH
+$ git clone https://github.com/afonsomateus21/desafio-tunts-rocks.git ou
+$ git clone git@github.com:afonsomateus21/desafio-tunts-rocks.git se utilizar SSH
 
 # Instale as dependências
 $ npm install ou yarn install
